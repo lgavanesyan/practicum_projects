@@ -1,6 +1,6 @@
 # Practicum projects
 
-## Certificate - 
+## Certificate
 
 ## Description
 Here there are projects that were implemented as a part of Data Analyst course at Practicum by Yandex.
