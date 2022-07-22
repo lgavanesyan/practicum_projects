@@ -8,8 +8,14 @@
 - Projects are numbered as they appeared in the course, only selected course projects are added to the repository
 - Projects with f_ at the beginning are final course projects 
 - List of projects:
-	1. Bank clients segmentation
-	2. A/B Testing
-	3. SQL
+	1. 
+	2. 
+	3. 
 	4.
 	5.
+	6.
+	7.
+	8.
+	9. Bank clients segmentation
+	10. A/B Testing 
+	11. SQL
