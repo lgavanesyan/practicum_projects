@@ -10,7 +10,7 @@
 - List of projects:
 	1. Exploratory data analysis - identification of factors influencing the market price of real estate
 	2. Statistical data analysis - identification of profitable tariff
-	3. Gamedev - identification of factors insluencing game's success 
+	3. Gamedev - identification of factors influencing game's success 
 	4. Business analysis - analysis of apps losses and ways to improve profitability
 	5. A/B test results analysis
 	6. Data vizualization - restaurants market analysis
