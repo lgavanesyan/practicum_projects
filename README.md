@@ -13,7 +13,8 @@
 	5. A/B test results analysis
 	6. Data vizualization - restaurants market analysis
 	7. Event study - mobile app client behavior
-	8. Machine learning - churn prediction for sports club
-	9. Final project - bank clients segmentation
-	10. Final project - a/b test results analysis 
-	11. Final project - sql tasks
+	8. Tableau - data vizualization
+	9. Machine learning - churn prediction for sports club
+	10. Final project - bank clients segmentation
+	11. Final project - a/b test results analysis 
+	12. Final project - sql tasks
